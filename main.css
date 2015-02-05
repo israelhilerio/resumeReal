@@ -5,3 +5,33 @@ h1{
 	color: navy;
 	text-align: center;
 }
+.header{
+	margin-left: 20px;	
+}
+.meat{
+	margin-left: 20px;
+}
+.creds{
+	width: 500px;
+	padding: 25px;
+	border: 25px solid navy;
+	margin: 25px;
+}
+.experience{
+	width: 500px;
+	padding: 25px;
+	border: 25px solid brown;
+	margin: 25px;
+}
+.activities{
+	width: 500px;
+	padding: 25px;
+	border: 25px solid brown;
+	margin: 25px;
+}
+.skills{
+	width: 500px;
+	padding: 25px;
+	border: 25px solid brown;
+	margin: 25px;	
+}

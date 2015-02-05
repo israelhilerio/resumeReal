@@ -26,12 +26,12 @@ h1{
 .activities{
 	width: 500px;
 	padding: 25px;
-	border: 25px solid brown;
+	border: 25px solid #0099FF;
 	margin: 25px;
 }
 .skills{
 	width: 500px;
 	padding: 25px;
-	border: 25px solid brown;
+	border: 25px solid grey;
 	margin: 25px;	
 }
